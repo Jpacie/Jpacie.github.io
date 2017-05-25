@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jpacie | Main Page
 #email:
+theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
   This is the companion website to my github account!
   Everything done on my github is done on my free time, meaning I am under no obligation to continue/complete any of it.
